@@ -1,4 +1,4 @@
 # Dice-Game
-Project Random 2 Player Game
+Random 2 Player Game Project 
 
 A Game Template to practice and edit with
